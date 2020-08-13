@@ -2,7 +2,7 @@
 ----
 :rocket: :rocket: :rocket:
 
-In this tutorial, I will demonstrate to create the AWS CodePipeline deployment option with the AWS cloud formation template stack (aka) AWS CloudFormation stack automatically deploy with AWS CodePipeline.
+In this tutorial, I will demonstrate to create AWS CloudFormation template stack automatically deploy with AWS CodePipeline.
 
 When we update the CloudFormation template stacks according to infrastructure changes and push to Github (or) AWS CodeCommit repository then automatically triggered with code pipeline for deployment to AWS infrastructure.
 
