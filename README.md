@@ -21,8 +21,11 @@ CodePipeline's pipeline result looks like:
 
 :pencil: :pencil: :pencil:
 
-Stay tuned at AWS User Group Myanmar Blog. ***https://blog.awsugmm.org***
-
+```
+Repository URL:
+https://github.com/aws-user-group-myanmar-aws-ugm/infrastructure-as-code-with-aws
+AWS User Group Myanmar Blog:
+https://blog.awsugmm.org/tutorials/infrastructure-as-code-with-aws-codepipeline
 ```
  References: 
 
